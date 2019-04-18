@@ -13,5 +13,8 @@ plot(f_index, spectrum(:,2))
 figure
 plot(filtered_index, filtered_spectrum(:,2))
 
+y=ones(13);
+
+
 % this is the page where the slide figure came from
 % https://haythamfayek.com/2016/04/21/speech-processing-for-machine-learning.html
